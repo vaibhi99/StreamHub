@@ -1,7 +1,7 @@
 ![PressPlayLogo](./client/public/favicon.ico)
-# PressPlay
+# StreamHub
 
-PressPlay is a video streaming website that lets you upload and view videos, like/dislike them, and comment on others (a la YouTube kind of service).  
+StreamHub is a video streaming website that lets you upload and view videos, like/dislike them, and comment on others (a la YouTube kind of service).  
 
 Built using the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS)
 
